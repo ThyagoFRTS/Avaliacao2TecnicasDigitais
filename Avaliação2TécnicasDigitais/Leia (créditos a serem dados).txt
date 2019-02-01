@@ -1,0 +1,6 @@
+O projeto a seguir não foi de inteira criação dos participantes 
+envolvidos. Utilizamos um algoritmo que encontramos na internet
+e o estudamos, uma vez que não tínhamos muito conhecimento em
+eletrônica digital.
+Vídeo base:
+https://youtu.be/GGLVcX_dx4s
